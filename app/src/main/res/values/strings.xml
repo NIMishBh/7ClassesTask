@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">7ClassesTask</string>
+    <string name="otp_v1">Enter your</string>
+    <string name="otp_v2">mobile number</string>
+    <string name="otp_v3">Account Registration</string>
+    <string name="_mobileno">9999999999</string>
+    <string name="otp_sent_to">OTP sent to</string>
+</resources>
